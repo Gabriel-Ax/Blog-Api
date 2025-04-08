@@ -1,5 +1,7 @@
 This repository is a simple Spring based Api for making Api requests for managing posts for a blog
 
+Project Url: https://roadmap.sh/projects/blogging-platform-api
+
 It has 6 types of requests:
 
 Get [/api/posts]: Returns all posts in the Database
