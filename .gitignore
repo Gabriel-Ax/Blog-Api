@@ -1,0 +1,9 @@
+help.md
+
+.gitattributes
+
+.gradle/
+build/
+bin/
+
+.vscode/
